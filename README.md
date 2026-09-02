@@ -1,6 +1,6 @@
 # Smart Helmet / RideGuard
 
-Android Studio Kotlin project for ESP32 Bluetooth smart-helmet monitoring.
+Android Studio Kotlin project and firmware code for ESP32 Bluetooth smart-helmet monitoring.
 
 ## Current behavior
 - Crash Detected counter with confirmation popup before reset.
